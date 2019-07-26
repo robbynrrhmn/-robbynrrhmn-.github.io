@@ -1,5 +1,7 @@
 body {
     background-image: url(img/wallpaper-2418827.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }

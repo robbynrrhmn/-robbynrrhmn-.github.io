@@ -1,5 +1,7 @@
 body {
     background-image: url(img/wallpaper-2418827.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
@@ -104,16 +106,17 @@ contact {
 }
 
 .contact-form-name {
-    width: 47.7%;
+    width: 90%;
     height: 50px
 }
 
 .contact-form-email {
-    width: 49.7%;
+    width: 90%;
     height: 50px
 }
 
 .contact-form-email-message {
+    width: 90%;
     height: 150px
 }
 
